@@ -1,0 +1,4 @@
+﻿  Injector.cpp
+D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\ReflectiveLoader\Injector.cpp(138): warning C4715: 'ManualMap': not all control paths return a value
+Injector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  ReflectiveLoader.vcxproj -> D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\Debug\ReflectiveLoader.exe

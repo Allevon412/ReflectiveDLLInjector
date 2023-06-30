@@ -1,0 +1,9 @@
+﻿  Injector.cpp
+  ReflectiveLoader.cpp
+  Generating code
+D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\ReflectiveLoader\Injector.cpp(174): warning C4715: 'ManualMap': not all control paths return a value
+  7 of 157 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ReflectiveLoader.vcxproj -> D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\Release\ReflectiveLoader.exe

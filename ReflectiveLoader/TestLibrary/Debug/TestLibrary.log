@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\TestLibrary\dllmain.cpp(8,12): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'LPVOID'
+  TestLibrary.vcxproj -> D:\Training\GuidedHacking\ReflectiveDLLLoader\ReflectiveLoader\Debug\TestLibrary.dll
