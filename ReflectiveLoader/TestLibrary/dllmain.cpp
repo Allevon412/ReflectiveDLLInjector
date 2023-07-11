@@ -25,7 +25,7 @@ void go() {
     // You can now use standard input/output functions like cout, cin, etc.
 
     // Example: Print a message to the console
-    const wchar_t* message = L"[*] Module is currently loaded at address: [0x%X]\n";
+    const wchar_t* message = L"[*] Module is currently loaded at address: [0x%p]\n";
     wchar_t buffer[256];
 
     HMODULE hModule = GetModuleHandle(nullptr);
